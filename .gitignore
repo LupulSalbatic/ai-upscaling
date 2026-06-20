@@ -1,6 +1,5 @@
 weights/
-output/
-input/
+anime_gan/
 __pycache__/
 *.pyc
 .env
